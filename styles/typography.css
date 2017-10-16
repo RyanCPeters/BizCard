@@ -1,6 +1,6 @@
 /* Element selectors */
 a {
-    color: #fcfcfc;
+    color: #4ddbff;
     text-decoration: none;
 }
 a:hover {
@@ -27,7 +27,7 @@ h2 {
     line-height: 1;
     color: #fcfcfc;
     text-transform: uppercase;
-    letter-spacing: 10px;
+    letter-spacing: 8px;
     margin-left: 0px;
 }
 h3 {
@@ -37,9 +37,9 @@ h3 {
     line-height: 1;
     color: #fcfcfc;
     text-transform: uppercase;
-    letter-spacing: 6px;
+    letter-spacing: 4px;
     margin-top: 8px;
-	margin-left: 12px;
+	margin-left: 0px;
 }
 h4 {
     font-family: "brandon-grotesque","Helvetica Neue",Helvetica,Arial,sans-serif;
