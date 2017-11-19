@@ -1,6 +1,6 @@
 # Yup, it's a very basic card!
 
-## Visit the page [here!](RyanCPeters.github.io/My_Basic_Business_Card)
+## Visit the page [here!](RyanCPeters.github.io/My_Basic_Business_Card/docs/index.html)
 
 
 ###### This is a handy reference for remembering the syntax used in .md files
