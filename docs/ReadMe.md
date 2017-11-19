@@ -1,6 +1,6 @@
 # Yup, it's a very basic card!
 
-## Visit the page<a href="RyanCPeters.github.io/My_Basic_Business_Card/docs/index.html" target="_blank"> here</a>
+## Visit the page<a href="https://google.com" target="_blank"> here</a>
 
 for debugging the link should direct to:
 
