@@ -12,14 +12,14 @@ html {
     padding-left:10px;
 }
 
-.header1_indent {
+.header_indent {
     padding-left: 4.5%;
+}
+.header1_indent {
+    padding-left: 9%;
 }
 .header2_indent {
-    padding-left: 4.5%;
-}
-.header3_indent {
-    padding-left: 4.5%;
+    padding-left: 13.5%;
 }
 .underline {
     text-decoration: underline;
